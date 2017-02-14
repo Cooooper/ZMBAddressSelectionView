@@ -1,0 +1,2 @@
+# ZMBAddressSelectionView
+地址选择控件，仿京东收货地址选择控件，支持网络获取下一级地址列表
